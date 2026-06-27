@@ -4,7 +4,7 @@ A comprehensive research project implementing and evaluating end-to-end autonomo
 
 ## Architecture Diagram
 
-<p align="center"> <img src="./architecture.png" width="100%" alt="Syed Bilal Hassan Banner"> </p>
+<p align="center"> <img src="./system_architecture.png" width="100%" alt="Syed Bilal Hassan Banner"> </p>
 
 <h1 align="center">Proposed Architecture</h1>
 
