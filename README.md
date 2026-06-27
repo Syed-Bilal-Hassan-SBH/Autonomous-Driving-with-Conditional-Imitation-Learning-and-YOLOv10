@@ -67,7 +67,7 @@ python scripts/create_result_figures.py
 
 ## 📚 Documentation
 
-- **[Research Paper](scripts/CV_Research_Paper.pdf)**: Complete IEEE-format publication
+- **[Research Paper](scripts/CV_Research_Paper.pdf)**
 - **[Project Summary](PROJECT_SUMMARY.txt)**: Detailed results and analysis
 - **[Comprehensive Report](results/comprehensive_report/comprehensive_report.md)**: Experimental results
 - **[Presentation](autonomous_driving_presentation.pdf)**: Project presentation slides
