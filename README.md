@@ -125,9 +125,8 @@ This project is for research and educational purposes.
 
 ## 👥 Contact
 
-For questions or collaboration, please open an issue or contact [your-email@example.com].
+For questions or collaboration, please open an issue or contact [syedbilal8803@gmail.com].
 
 ---
 
-**Completion Date**: November 30, 2025  
 **Version**: 2.0.0 - Complete Research Edition
