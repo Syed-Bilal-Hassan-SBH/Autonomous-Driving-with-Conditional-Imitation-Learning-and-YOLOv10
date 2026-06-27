@@ -7,7 +7,6 @@ A comprehensive research project implementing and evaluating end-to-end autonomo
 - **Original Paper Replication**: Successfully reproduced Codevilla et al. (2018) with **95% steering success**
 - **Real-World Extension**: Extended to Udacity dataset with **88% steering success**
 - **YOLOv10 Integration**: Achieved **0.92 mAP@0.5** (CARLA) and **0.86 mAP@0.5** (Udacity)
-- **IEEE Publication**: Complete research paper included
 - **100-Epoch Training**: Full convergence for all models
 - **Ablation Studies**: 9 model configurations systematically analyzed
 
@@ -97,31 +96,6 @@ python scripts/create_result_figures.py
 - **Training**: 100 epochs with Adam/SGD optimizers
 - **Input**: Camera images (200×88 for CIL, 640×640 for YOLOv10)
 - **Hardware**: CPU-only training for reproducibility
-
-## 🏁 Project Status
-
-**Status**: ✅ **FULLY COMPLETED & PUBLICATION READY**  
-**Performance**: 🏆 **STATE-OF-THE-ART**  
-**Publication**: 📄 **IEEE READY**  
-**Reproducibility**: 🔬 **100%**  
-**Impact**: 🎯 **HIGH IMPACT RESEARCH**
-
-## 📝 Citation
-
-If you use this code or research, please cite:
-
-```bibtex
-@article{autonomous_driving_2025,
-  title={End-to-End Autonomous Driving via Conditional Imitation Learning and Modern Object Detection},
-  author={Syed Bilal Hassan},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2025}
-}
-```
-
-## 📄 License
-
-This project is for research and educational purposes.
 
 ## 👥 Contact
 
