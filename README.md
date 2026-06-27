@@ -113,7 +113,7 @@ If you use this code or research, please cite:
 ```bibtex
 @article{autonomous_driving_2025,
   title={End-to-End Autonomous Driving via Conditional Imitation Learning and Modern Object Detection},
-  author={Your Name},
+  author={Syed Bilal Hassan},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2025}
 }
