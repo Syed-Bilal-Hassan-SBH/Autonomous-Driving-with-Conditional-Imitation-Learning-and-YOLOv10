@@ -1,0 +1,106 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data directories (large datasets)
+data/
+datasets/
+
+# Model checkpoints and large binary files
+*.pth
+*.pt
+*.onnx
+*.weights
+*.ckpt
+checkpoints/
+runs/
+
+# External dependencies
+external/
+ultralytics/
+
+# Duplicate directories
+Project/
+
+# Large zip files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+logs/
+tensorboard/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Results - keep only figures and reports, exclude large model files
+results/*/yolov10_finetuned_100epochs/*.pt
+results/*/yolov10_finetuned_100epochs/*.pth
+results/*/yolov10_finetuned_100epochs/weights/
+results/*/original_paper_trained_100epochs/*.pt
+results/*/original_paper_trained_100epochs/*.pth
+results/*/original_paper_trained_100epochs/weights/
+
+# Keep these specific result files
+!results/*/training_curves.png
+!results/*/performance_metrics.png
+!results/*/training_history.csv
+!results/*/training_results.json
+!results/figures/
+!results/comprehensive_report/
+!results/ablation_studies_comprehensive/
+
+# Presentation files (keep PDF, exclude PPTX)
+autonomous_driving_presentation.pptx
+convert_slides.bat

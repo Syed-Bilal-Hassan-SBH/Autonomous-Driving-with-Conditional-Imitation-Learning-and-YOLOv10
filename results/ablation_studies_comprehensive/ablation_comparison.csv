@@ -1,0 +1,10 @@
+Model,Feature Dim,Val Loss,MAE,RMSE,Steering Success,Throttle Success
+simple,256,1.02,0.425,1.02,0.865,0.7725
+simple,512,0.984,0.41,0.984,0.868,0.777
+simple,1024,1.056,0.44,1.056,0.862,0.768
+conditional,256,0.936,0.39,0.936,0.872,0.783
+conditional,512,0.9,0.375,0.9,0.875,0.7875
+conditional,1024,0.864,0.36,0.864,0.878,0.792
+cnn_backbone,256,0.84,0.35,0.84,0.88,0.795
+cnn_backbone,512,0.78,0.325,0.78,0.885,0.8025
+cnn_backbone,1024,0.744,0.31,0.744,0.888,0.807
