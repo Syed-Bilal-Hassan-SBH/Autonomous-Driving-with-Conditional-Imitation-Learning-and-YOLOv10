@@ -2,6 +2,13 @@
 
 A comprehensive research project implementing and evaluating end-to-end autonomous driving through conditional imitation learning (CIL) and modern object detection using YOLOv10.
 
+## Architecture Diagram
+
+<p align="center"> <img src="./architecture.png" width="100%" alt="Syed Bilal Hassan Banner"> </p>
+
+<h1 align="center">Proposed Architecture</h1>
+
+
 ## 🏆 Project Achievements
 
 - **Original Paper Replication**: Successfully reproduced Codevilla et al. (2018) with **95% steering success**
